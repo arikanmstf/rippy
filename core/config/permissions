@@ -1,0 +1,7 @@
+-1####banned
+0####read_login####read_site####read_contact####read_blog####read_books####read_writers
+1####read_site####read_contact####read_blog####read_books####read_writers
+2####read_site####read_contact####read_blog####read_books####read_writers####download_books####mark_read_unread####edit_account####mark_wish_nowish
+3####read_site####read_contact####read_blog####read_books####read_writers####read_admin####edit_books####display_all_books####display_owners####download_books####mark_read_unread####edit_account####mark_wish_nowish
+4####read_site####read_contact####read_blog####read_books####read_writers####read_admin####edit_books####display_all_books####display_owners####edit_writers####deleted_books####download_books####mark_read_unread####edit_account####mark_wish_nowish####edit_categories
+5####read_site####read_contact####read_blog####read_books####read_writers####read_admin####edit_books####edit_writers####deleted_books####display_all_books####display_owners####edit_users####edit_permissions####edit_user_type####add_user####download_books####mark_read_unread####view_log####clear_log####edit_account####mark_wish_nowish####edit_categories####noimage_books####nofile_books####delete_book
