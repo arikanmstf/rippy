@@ -138,7 +138,7 @@ EOF;
 	$temp = fopen('./core/config/config.php','w');
 	fwrite($temp,$config_str);
 	fclose($temp);
-	chmod('./core/config/config.php', 0777);
+	@chmod('./core/config/config.php', 0777);
 	//.htaccess
 	
 	$theme  = $_SESSION['tmName'];
