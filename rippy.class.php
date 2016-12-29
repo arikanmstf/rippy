@@ -2,7 +2,7 @@
 /**
 	***	Rippy php library ***
 		Author  : Mustafa Arıkan
-		Version : 1.8.0
+		Version : 1.8.5
 		Release : 18.01.2016
 		Contact : arikan134@gmail.com
 		Web 	: http://mustafaarikan.net

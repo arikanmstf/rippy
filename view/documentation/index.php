@@ -242,35 +242,14 @@ if(!defined(@CURRENTDIR))define('CURRENTDIR','./');
                 </span>
                 <ul class="variables itemMembers">
                     <span class="subtitle">Değişkenler</span>
-                    <li data-name="Rippy.View.result" class="">
-                        <a href="#">result</a>
-                    </li>
                 </ul>
                 <ul class="methods itemMembers">
                     <span class="subtitle">Yöntemler</span>
                     <li data-name="Rippy.View.__construct" class="">
-                        <a href="#">__construct</a>
+                        <a href="#rippy.View.__construct">__construct</a>
                     </li>
     				<li data-name="Rippy.View.load" class="">
-                        <a href="#">load</a>
-                    </li>
-    				<li data-name="Rippy.View.meta" class="">
-                        <a href="#">meta</a>
-                    </li>
-    				<li data-name="Rippy.View.title" class="">
-                        <a href="#">title</a>
-                    </li>
-    				<li data-name="Rippy.View.css" class="">
-                        <a href="#">css</a>
-                    </li>
-    				<li data-name="Rippy.View.js" class="">
-                        <a href="#">js</a>
-                    </li>
-    				<li data-name="Rippy.View.getResult" class="">
-                        <a href="#">getResult</a>
-                    </li>
-    				<li data-name="Rippy.View.getResultString" class="">
-                        <a href="#">getResultString</a>
+                        <a href="#rippy.View.load">load</a>
                     </li>
                 </ul>
             </li>
