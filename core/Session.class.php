@@ -130,7 +130,7 @@ class Hash {
         $this->etype = MCRYPT_RIJNDAEL_256;
         $this->mcmod = MCRYPT_MODE_ECB;
         $this->rand  = MCRYPT_RAND;
-        $this->key   = '<c349BzQ_02Y9p1j*Q1&&Zq2guN0X0';
+        $this->key   = '<07xrHcxoqE:z&G1jtg2<B+%fT=Rippy';
         $this->iv    = @mcrypt_create_iv(@mcrypt_get_iv_size($this->etype, $this->mcmod), $this->rand);
 
         if(!function_exists('mcrypt_create_iv'))
